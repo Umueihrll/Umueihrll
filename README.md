@@ -1,16 +1,69 @@
-### Hi there 👋
+# ReadmeChris
 
-<!--
-**Umueihrll/Umueihrll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Oi, Eu me chamo Christian Garrido
 
-Here are some ideas to get you started:
+👀 Adoro atividades ao ar livre, mesmo sendo apaixonado por games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estou melhorando cada vez mais minhas habilidades como programador.
+
+💞️ Estou procurando oportunidades como Programador Fullstack em aplicações úteis, e com sorte aplicações contra as mudanças climáticas.
+
+📫 Para poder falar comigo você pode através dos links:
+
+Linked In: https://www.linkedin.com/in/christian-garrido-b551aa17b/
+Instagram: https://www.instagram.com/chris_garcima/
+HardSkills:
+
+HTML5.
+CSS3/SCSS.
+Javascript.
+Typescript
+React.
+Bootstrap
+Formik
+Node.js.
+Express.js
+Axios
+PostgreSQL.
+npm
+SoftSkills:
+
+Metodologias ágeis. (Scrum and Kanban
+Trabalho em equipe.
+Gerenciamento de projetos.
+Escuta Ativa.
+Tomada de decisões.
+
+==/==/==/=
+
+👋 Hi, I’m @GarridoChris
+
+👀 I’m interested in outSide activities
+
+🌱 I’m currently learning Node.js, React-js, Js, Py,
+
+💞️ I’m looking to collaborate on Anything usefull and with hope, against climate change.
+
+📫 How to reach me, you can use my Linked In: https://www.linkedin.com/in/christian-garrido-b551aa17b/ or Instagram: https://www.instagram.com/chris_garcima/
+
+HardSkills:
+
+HTML5.
+CSS3/SCSS.
+Javascript.
+Typescript
+React.
+Bootstrap
+Formik
+Node.js.
+Express.js
+Axios
+PostgreSQL.
+npm
+SoftSkills:
+
+Metodologias ágeis. (Scrum and Kanban
+Trabalho em equipe.
+Gerenciamento de projetos.
+Escuta Ativa.
+Tomada de decisões.
