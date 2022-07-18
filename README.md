@@ -10,7 +10,7 @@
 
 📫 Para poder falar comigo você pode através dos links:
 
-Linked In: https://www.linkedin.com/in/christian-garrido-b551aa17b/
+Linked In: https://www.linkedin.com/in/christian-garrido-cima/
 Instagram: https://www.instagram.com/chris_garcima/
 HardSkills:
 
@@ -19,12 +19,15 @@ CSS3/SCSS.
 Javascript.
 Typescript
 React.
+React Hook Form
+React Query
 Bootstrap
 Formik
 Node.js.
 Express.js
 Axios
 PostgreSQL.
+MySQL
 npm
 SoftSkills:
 
@@ -48,17 +51,18 @@ Tomada de decisões.
 
 HardSkills:
 
-HTML5.
-CSS3/SCSS.
 Javascript.
 Typescript
 React.
+React Hook Form
+React Query
 Bootstrap
 Formik
 Node.js.
 Express.js
 Axios
 PostgreSQL.
+MySQL
 npm
 SoftSkills:
 
