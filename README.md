@@ -17,31 +17,15 @@ Quer falar comigo? é só acessar :
 
 
 ## HardSkills:
-
-###### HTML5. 
-###### CSS3/SCSS.
-<><><>
-###### Javascript.
-###### Typescript
-###### C#
-<><><>
-###### ASP.NET Core
-###### React.
-###### React Hook Form
-###### React Query
-###### Bootstrap
-###### Formik
-<><><>
-###### Node.js.
-###### Express.js
-###### Axios
-###### PostgreSQL.
-###### MySQL
-###### SQL Server
-<><><>
-###### npm
-###### yarn
-###### GIT
+|  **Front**        | **Back**          | **Packages and Versioning**  |
+| ------------- |:-------------:| -----:|
+| HTML      | Javascritp | npm |
+| CSS/SCSS      | Typescript |   yarn |
+| React | C#  |  GIT |
+|React Hook Form|Node.js| |
+|Bootstrap|Express| |
+|Formik|SQL Server| |
+|ASP.NET core|.NET| |
 
 ## SoftSkills:
 
